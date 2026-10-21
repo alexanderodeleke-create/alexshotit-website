@@ -1,0 +1,12 @@
+ALEXSHOTIT + ALEXDGAMER WEBSITE
+
+1. Extract this ZIP file.
+2. Open the alexshotit_site folder.
+3. Double-click index.html to preview it in your browser.
+4. Edit index.html with a code editor to change text and links.
+5. Edit assets/css/alexshotit.css to adjust colours and styling.
+6. Replace sample images in the images folder with your own design samples, keeping filenames the same or updating index.html.
+7. Before publishing, replace the placeholder WhatsApp number (https://wa.me/2340000000000) and email (hello@alexshotit.example). Add your actual YouTube/social link in the AlexDGamer section.
+8. Upload the contents of the alexshotit_site folder to a static host such as GitHub Pages or Netlify.
+
+The page uses sample images from the original HTML5 UP Phantom template. The template attribution is retained in the footer; keep the license file with the website.
